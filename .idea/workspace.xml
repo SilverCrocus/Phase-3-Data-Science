@@ -36,6 +36,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="editted model generation" />
-    <option name="LAST_COMMIT_MESSAGE" value="editted model generation" />
+    <MESSAGE value="removed warnings" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed warnings" />
   </component>
 </project>
