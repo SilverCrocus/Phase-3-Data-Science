@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a0c9662f-87d4-4ae9-a94e-a465d063579d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/fit/20220906-191044/train/events.out.tfevents.1662448244.DESKTOP-84HVTQO.18392.0.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/fit/20220906-191044/validation/events.out.tfevents.1662448249.DESKTOP-84HVTQO.18392.1.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/fit/20220907-002103/train/events.out.tfevents.1662466863.DESKTOP-84HVTQO.456.4.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/fit/20220907-002103/validation/events.out.tfevents.1662466867.DESKTOP-84HVTQO.456.5.v2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/report.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/report.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +41,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="editted model generation" />
     <MESSAGE value="removed warnings" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed warnings" />
+    <MESSAGE value="model generation done" />
+    <option name="LAST_COMMIT_MESSAGE" value="model generation done" />
   </component>
 </project>
