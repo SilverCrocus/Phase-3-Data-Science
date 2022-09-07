@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a0c9662f-87d4-4ae9-a94e-a465d063579d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/fit/20220907-020822/train/events.out.tfevents.1662473302.DESKTOP-84HVTQO.17044.0.v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/fit/20220907-020822/validation/events.out.tfevents.1662473306.DESKTOP-84HVTQO.17044.1.v2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/model.h5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/report.ipynb" afterDir="false" />
     </list>
@@ -43,6 +41,8 @@
     <MESSAGE value="model generation done" />
     <MESSAGE value="Plotting graphs" />
     <MESSAGE value="moved warnings import to the top" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved warnings import to the top" />
+    <MESSAGE value="Advance features" />
+    <MESSAGE value="finished up hyperparameter tuning" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished up hyperparameter tuning" />
   </component>
 </project>
