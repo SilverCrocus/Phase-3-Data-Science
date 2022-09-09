@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a0c9662f-87d4-4ae9-a94e-a465d063579d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,7 @@
     <MESSAGE value="finished up hyperparameter tuning" />
     <MESSAGE value="spacing correction" />
     <MESSAGE value="writing comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing comments" />
+    <MESSAGE value="Comments about graphs updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comments about graphs updated" />
   </component>
 </project>

@@ -1,3 +1,11 @@
+# Submission files notes
+* I have done everything in my report notebook file. So my model creation is at the start of that file and near the end of the file is my Introduction-Conclusion and then at the very end is my Advance Features.
+
+
+
+
+
+
 # Required Software:
 * [Python 3.9+](https://www.python.org/downloads/)
 * Text Editor for Python ([Visual Studio Code](https://code.visualstudio.com/) with [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) installed is recommended)
@@ -15,7 +23,7 @@ pip install -r requirements.txt
 Recommended to use a virtual environment either from either [virtualenv](https://docs.python.org/3/library/venv.html) or [anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). This setup helps isolate project dependencies from user dependencies as to avoid version conflicts.
 
 # Tensorboard:
-Tensorboard is an added feature to the skeleton project. Run 
+Tensorboard is an added feature to the skeleton project. Run
 ```
 tensorboard --logdir output/logs/
 ``` 
