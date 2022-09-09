@@ -1,5 +1,7 @@
 # Submission files notes
 * I have done everything in my report notebook file. So my model creation is at the start of that file and near the end of the file is my Introduction-Conclusion and then at the very end is my Advance Features.
+* Image folder is used for my first advance feature. That resizes an image and runs its through the model.
+* my_dir folder has files for my tuned model in it. This is used for my 2nd Advance feature which was apply hyperparameter tuning.
 
 
 
