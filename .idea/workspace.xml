@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0c9662f-87d4-4ae9-a94e-a465d063579d" name="Changes" comment="spacing correction">
+    <list default="true" id="a0c9662f-87d4-4ae9-a94e-a465d063579d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/model.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/report.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +53,7 @@
     <MESSAGE value="Advance features" />
     <MESSAGE value="finished up hyperparameter tuning" />
     <MESSAGE value="spacing correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="spacing correction" />
+    <MESSAGE value="writing comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing comments" />
   </component>
 </project>
